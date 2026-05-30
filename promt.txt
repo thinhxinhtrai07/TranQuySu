@@ -1,1 +1,4 @@
+promt 1: https://github.com/thinhxinhtrai07/TranQuySu
+
+promt 2: py -3.12 -m pip install -r requirements.txt
 py -3.12 main.py
